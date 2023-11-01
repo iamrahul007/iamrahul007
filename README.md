@@ -6,14 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahul007&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahul007" /> </p>
 
 
-- 🔭 I’m currently working on **Office Employee Management System**
-
-- 🌱 I’m currently learning **Dart, Flutter**
-
-- 👯 I’m looking to collaborate on **Office Employee Management System**
-
-- 💬 Ask me about **Python, Django, Android**
-
 - 📫 How to reach me **iamrahulmehta112@gmail.com**
 
 - ⚡ Fun fact **10 types of people in this world.**
